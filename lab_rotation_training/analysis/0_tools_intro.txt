@@ -1,0 +1,6 @@
+Do Rosalind Python introduction (https://rosalind.info/problems/locations/)
+Install python via Anaconda or miniconda/mamba
+
+Decide whether to work with Jupyter or CMD (project vs thesis)
+Decide to use Windows, WSL, dual-boot (project vs thesis)
+    
